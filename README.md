@@ -6,6 +6,7 @@ My LeetCode DSA solutions
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0185-department-top-three-salaries](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0197-rising-temperature](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0626-exchange-seats](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
