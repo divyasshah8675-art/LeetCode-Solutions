@@ -13,6 +13,7 @@ My LeetCode DSA solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -21,9 +22,18 @@ My LeetCode DSA solutions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 <!---LeetCode Topics End-->
