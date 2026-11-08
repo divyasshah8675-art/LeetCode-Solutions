@@ -14,6 +14,7 @@ My LeetCode DSA solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 ## Binary Search
@@ -37,4 +38,24 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->
