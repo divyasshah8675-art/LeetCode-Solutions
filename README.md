@@ -58,4 +58,16 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
