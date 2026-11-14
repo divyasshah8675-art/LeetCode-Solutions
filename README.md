@@ -17,6 +17,7 @@ My LeetCode DSA solutions
 | [1267-count-servers-that-communicate](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +72,8 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
