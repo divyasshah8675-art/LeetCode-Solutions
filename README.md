@@ -68,6 +68,7 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +77,8 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
