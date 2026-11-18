@@ -69,6 +69,7 @@ My LeetCode DSA solutions
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
