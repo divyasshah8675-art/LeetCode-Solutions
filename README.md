@@ -18,6 +18,7 @@ My LeetCode DSA solutions
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,8 +79,21 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
