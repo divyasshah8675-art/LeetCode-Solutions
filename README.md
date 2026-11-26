@@ -84,10 +84,12 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [3360-stone-removal-game](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
