@@ -36,6 +36,7 @@ My LeetCode DSA solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@ My LeetCode DSA solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/divyasshah8675-art/LeetCode-Solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Backtracking
